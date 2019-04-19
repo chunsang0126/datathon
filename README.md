@@ -20,7 +20,9 @@ The preprocessing of the data will include the points below:
 * Dropping na-values, outliers  irrelevant or redundant columns, high correlated ones, etc.
 
 ## Data Exploratory analysis
-In this part, we will check some statistical hypothesis as, for example, that some mixins (g.ex: chocolate) will define the quality of the cookies. 
+In this part, we will check some statistical hypothesis as, for example, that some mixins will define the quality of the cookies. 
+> Ho: The mean quality of sample containing mixin X is equal to the average
+> H1: The mean quality of sample containing mixin X is higher
 
 ## Machine Learning modelling
 To do.

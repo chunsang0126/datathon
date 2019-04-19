@@ -25,4 +25,5 @@ In this part, we will check some statistical hypothesis as, for example, that so
 > * H1: The mean quality of sample containing mixin X is higher
 
 ## Machine Learning modelling
-To do.
+We have applied some algorithms to predict the quality of cookies. We have taken two different approaches (classification vs regression), obtaining a better model performance with a linear regression than with KNN classification algorithm.
+

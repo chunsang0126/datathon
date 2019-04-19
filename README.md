@@ -1,4 +1,4 @@
-# datathon
+# Cookies Decathlon
 
 ## Abstract
 In this project, we are trying to solve a problem provided by the company _Cookies Flea_. The goal is to predict the quality of the cookies given some features. 
